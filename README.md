@@ -1,4 +1,4 @@
-![IMG_20210430_165321 (3)](https://github.com/Kelvin-Ben/Concert-Page/assets/85459676/e5a34cee-38aa-4be2-84c6-0370551e552d)
+
 
 # CONCERT PAGE
 
@@ -35,7 +35,7 @@ To run the Concert Page locally on your machine, follow these steps:
 
 ### Author
 
-**👤 Kelvin Benjamin**
+**👤 Tayyab Ahmad**
 
 - GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
 - Twitter: [@kevoyout144](https://twitter.com/kevoyout144)
