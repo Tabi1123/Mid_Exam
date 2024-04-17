@@ -37,10 +37,7 @@ To run the Concert Page locally on your machine, follow these steps:
 
 **👤 Tayyab Ahmad**
 
-- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
-- Twitter: [@kevoyout144](https://twitter.com/kevoyout144)
-- LinkedIn: [Kelvin Ben](https://www.linkedin.com/in/kelvinben/)
-
+- GitHub: [@Kelvin-Ben](https://github.com/Tabi1122)
 ### 🤝 Contributing
 
 Contributions to the Concert Page are welcome and encouraged. If you'd like to contribute, please follow these steps:
